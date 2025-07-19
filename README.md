@@ -176,7 +176,8 @@ All outputs are reproducible with the included datasets and code.
 
 ## 📚 How to Cite
 
-Saveeza Aziz. (2025). *Saveeza/esg-real-estate-analysis-luxembourg: Initial Zenodo Release — ESG Scoring vs Market Returns (Luxembourg) (v1.0)*. Zenodo. https://doi.org/10.5281/zenodo.16146240
+Aziz, S. (2025). *Saveeza/esg-real-estate-analysis-luxembourg: Initial Zenodo Release — ESG Scoring vs Market Returns (Luxembourg) (v1.0)*. Zenodo. https://doi.org/10.5281/zenodo.16146240
+
 
 ---
 
